@@ -103,6 +103,6 @@ function createRobot(coordinates, direction) {
 
 module.exports = { createRobot };
 
-const robot = createRobot([7, 3], "North");
+// const robot = createRobot([7, 3], "North");
 
-console.log(robot.turnLeft());
+// console.log(robot.turnLeft());
